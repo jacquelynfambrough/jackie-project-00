@@ -1,0 +1,37 @@
+ .col-md-.5{
+  background-color:green;
+}
+#t-1 {
+
+
+    background-color: black;
+    margin-top:50px
+}
+
+#t-2 {
+
+
+    background-color:black;
+    margin-top:100px
+}
+
+#p-1 {
+
+    width:60px; height:60px;
+    background-color:green;
+    margin:10px;
+    font-size:40px;
+    color:white;
+    text-align: center;
+
+}
+
+#p-2 {
+
+    width:60px; height:60px;
+    background-color:green;
+    margin:10px;
+    font-size:40px;
+    color:white;
+    text-align: center;
+}
