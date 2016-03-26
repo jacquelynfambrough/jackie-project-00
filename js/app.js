@@ -9,16 +9,20 @@ $(document).on("ready", function(){
 
   $(window).on("keypress" , function eventHandler(e){
     if (e.which === pOneKey){
-      console.log("A");
+      playerOne.stop().animate({
+                'left': '+=5px'
+      },0 );
     }
   });
 
   $(window).on("keypress" , function eventHandler(e){
-    // console.log(e);
     if (e.which === pTwoKey){
-      console.log("L");
+      playerTwo.stop().animate({
+                'left': '+=5px'
+      } ,0 );
     }
   });
+
 
 
 });
