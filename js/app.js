@@ -5,14 +5,17 @@ $(document).on("ready", function(){
   var playerTwo = $('#p-2');
 
 
-  $(window).on("keypress", function eventHandler(event){
-if (event.keyCode === ){
-  console.log("spacebar");
-
+  $(window).on("keydown", function eventHandler(event){
+    if (event.keyCode === 65){
+      console.log("A");
     }
+  });
 
-
- });
+  $(window).on("keydown", function eventHandler(event){
+    if (event.keyCode === 76){
+      console.log("L");
+    }
+  });
 
 
 });
