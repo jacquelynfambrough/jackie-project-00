@@ -31,10 +31,6 @@ $(document).on("ready", function(){
     }
   });
 
-  if(playerTwo.css('left')&& playerOne.css('left')==='830px'){
-    alert("Everybody Wins!");
-  }
-
   $('button').on("click" , function resetTracks(e){
     playerOne.stop().animate({
       'left': '0px'

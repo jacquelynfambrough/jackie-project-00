@@ -18,7 +18,7 @@ finish line!
 The Goal of this project is to create a racing game that consists of two players
 contained within two separate tracks. Each player must tap their assigned key
 to move their character. The winner is declared when a player reaches the
-finish line.
+finish liberne.
 
 #Technologies Used
 
@@ -40,10 +40,11 @@ This game was created using the following technologies:
   - Reset the game.
 
 
-###Changes I'd Like to Implement
+#Planned Features
 
-- Adding OOP/Handlebars
-- If possible, I'd like to make the page responsive.
 - Fix glitches that I've caught and others that I wasn't aware of.
-- Make the layout cleaner. It's a little busy for my taste, but I also wasn't
-incredibly satisfied with my options.
+- Adding OOP/Handlebars
+- Make the layout cleaner a little less busy.. couldn't seem the find the
+perfect background
+- Adding additional bonuses
+- If possible, I'd like to make the page responsive.
