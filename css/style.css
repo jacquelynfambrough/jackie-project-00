@@ -1,18 +1,23 @@
- .col-md-.5{
-  background-color:green;
-}
+
+
 #t-1 {
 
 
-    background-color: black;
-    margin-top:50px
+  background-color:black;
+  position:fixed;
+  width:900px; height:80px;
+  margin-top:50px;
+
 }
 
 #t-2 {
 
 
     background-color:black;
-    margin-top:100px
+    position:fixed;
+    width:900px; height:80px;
+    margin-top:150px;
+
 }
 
 #p-1 {
@@ -21,6 +26,7 @@
     background-color:green;
     margin-top:10px;
     margin-bottom:10px;
+    margin-left:10px;
     font-size:40px;
     color:white;
     text-align: center;
@@ -34,6 +40,7 @@
     background-color:green;
     margin-top:10px;
     margin-bottom:10px;
+    margin-left:10px;
     font-size:40px;
     color:white;
     text-align: center;
