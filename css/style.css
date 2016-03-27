@@ -1,14 +1,17 @@
 
 body {
-  background-image: url("http://images.nymag.com/images/2/daily/2014/12/01-broad-city-girls_1200.jpg");
-  background-repeat: no-repeat;
+
+  background-image:url("http://images.nymag.com/images/2/daily/2014/12/01-broad-city-girls_1200.jpg");
+  background-size:cover;
   background-position:center;
+  background-repeat:no-repeat;
+
 
 }
 
 #racetitle{
 
-  font-family: serif;
+  font-family:serif;
   font-size:70px;
   color:black;
 
@@ -54,6 +57,7 @@ body {
 
 }
 
+
 #p-2 {
 
   position:relative;
@@ -77,6 +81,8 @@ body {
   position:fixed;
   width:950px; height:120px;
   margin-top:50px;
+  margin-left:90px;
+
 
 }
 
@@ -87,11 +93,13 @@ body {
   position:fixed;
   width:950px; height:120px;
   margin-top:250px;
+  margin-left:90px;
 
 }
 
 
-.button-area {
+.btn {
   margin-top: 400px;
   position:fixed;
+
 }
