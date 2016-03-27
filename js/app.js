@@ -15,7 +15,7 @@ $(document).on("ready", function(){
                 'left': '+=5px'
       },0 );
       if(playerOne.css('left') === '830px'){
-        alert("player one wins!!");
+        alert("Ilana wins Abbi's love!");
       }
     }
   });
@@ -26,13 +26,13 @@ $(document).on("ready", function(){
         'left': '+=5px'
         } ,0 );
       if(playerTwo.css('left') === '830px'){
-        alert("player two wins!!");
+        alert("Abbi wins a 20% off coupon for Bed Bath and Beyond!");
       }
     }
   });
 
   if(playerTwo.css('left')&& playerOne.css('left')==='830px'){
-    alert("tie!");
+    alert("Everybody Wins!");
   }
 
   $('button').on("click" , function resetTracks(e){
