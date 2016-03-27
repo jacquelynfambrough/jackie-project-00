@@ -28,21 +28,21 @@ This game was created using the following technologies:
 - CSS
 - Javascript
 - jQuery
-- Bootstrap.
+- Bootstrap
 
 
 #Existing Features
 
 - Themed after Broad City with CSS
 - IT ACTUALLY WORKS! With aid of multiple callbacks and event listeners, players
-  - Use separate keys to move their characters.
-  - Can see a winner display in the form of an alert at the end of a game.
-  - Reset the game.
+  - Use separate keys to move their characters
+  - Can see a winner display in the form of an alert at the end of a game
+  - Reset the game
 
 
 #Planned Features
 
-- Fix glitches that I've caught and others that I wasn't aware of.
+- Fix glitches that I've caught and others that I wasn't aware of
 - Adding OOP/Handlebars
 - Make the layout cleaner a little less busy.. couldn't seem the find the
 perfect background
