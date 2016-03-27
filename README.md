@@ -18,7 +18,7 @@ finish line!
 The Goal of this project is to create a racing game that consists of two players
 contained within two separate tracks. Each player must tap their assigned key
 to move their character. The winner is declared when a player reaches the
-finish liberne.
+finish line.
 
 #Technologies Used
 
