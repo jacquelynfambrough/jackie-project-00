@@ -1,17 +1,17 @@
 #A RACE BETWIXT FRIENDS!!
 
 
-*Will Ilana win the favor of Abbi?
-Or will Abbi get the discount of a lifetime?
+*Will Ilana finally win the favor of Abbi?*
+*Or will Abbi get the discount of a lifetime?*
 
-There's only one way to find out! Find a worthy opponent and get to tappin'!
+*There's only one way to find out! Find a worthy opponent and get to tappin'!*
 
 __How to play:__
-+Player One (Ilana) is the "A" key.
-+Player Two (Abbi) is the "L" key.
+-Player One (Ilana) is the "A" key.
+-Player Two (Abbi) is the "L" key.
 
-Both players must press their keys repetitively until their character reaches
-the finish line.*
+Both players must press their keys repetitively until someone reaches the
+finish line!
 
 #Racing Game
 
@@ -23,28 +23,27 @@ finish line.
 #Technologies Used
 
 This game was created using the following technologies:
-+HTML
-+CSS
-+Javascript
-+jQuery
-+Bootstrap.
+
+-HTML
+-CSS
+-Javascript
+-jQuery
+-Bootstrap.
 
 
 #Existing Features
 
-What features does your racing game have? (bullet points)
-
-+Themed after Broad City with CSS
-+IT ACTUALLY WORKS! With aid of multiple callbacks and event listeners, players
+-Themed after Broad City with CSS
+-IT ACTUALLY WORKS! With aid of multiple callbacks and event listeners, players
 ⋅⋅1. Use separate keys to move their characters.
 ..1. Can see a winner display in the form of an alert at the end of a game.
 ..1. Reset the game.
 
 
-###Changes I'd like to implement
+###Changes I'd Like to Implement
 
-+adding OOP/Handlebars
-+If possible, I'd like to make the page responsive.
-+Fix glitches that I've caught and others that I wasn't aware of.
-+Make the layout cleaner. It's a little busy for my taste, but I also wasn't
+-Adding OOP/Handlebars
+-If possible, I'd like to make the page responsive.
+-Fix glitches that I've caught and others that I wasn't aware of.
+-Make the layout cleaner. It's a little busy for my taste, but I also wasn't
 incredibly satisfied with my options.
