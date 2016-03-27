@@ -35,9 +35,9 @@ This game was created using the following technologies:
 
 - Themed after Broad City with CSS
 - IT ACTUALLY WORKS! With aid of multiple callbacks and event listeners, players
- ⋅⋅1. Use separate keys to move their characters.
- ⋅⋅1. Can see a winner display in the form of an alert at the end of a game.
- ⋅⋅1. Reset the game.
+  - Use separate keys to move their characters.
+  - Can see a winner display in the form of an alert at the end of a game.
+  - Reset the game.
 
 
 ###Changes I'd Like to Implement
