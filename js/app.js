@@ -12,7 +12,7 @@ $(document).on("ready", function(){
   $(window).on("keypress" , function eventHandler(e){
     if (e.which === pOneKey){
       playerOne.stop().animate({
-                'left': '+=5px'
+        'left': '+=5px'
       },0 );
       if(playerOne.css('left') === '830px'){
         alert("Ilana wins Abbi's love!");

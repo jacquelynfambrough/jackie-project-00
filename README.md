@@ -43,7 +43,7 @@ What features does your racing game have? (bullet points)
 
 ###Changes I'd like to implement
 
-+OOP/Handlebars
++adding OOP/Handlebars
 +If possible, I'd like to make the page responsive.
 +Fix glitches that I've caught and others that I wasn't aware of.
 +Make the layout cleaner. It's a little busy for my taste, but I also wasn't
