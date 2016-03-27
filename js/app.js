@@ -7,11 +7,15 @@ $(document).on("ready", function(){
   var pTwoKey = 108;
 
 
+
   $(window).on("keypress" , function eventHandler(e){
     if (e.which === pOneKey){
       playerOne.stop().animate({
                 'left': '+=5px'
       },0 );
+      if(playerOne.css('left') === '830px'){
+        alert("player one wins!!");
+      }
     }
   });
 
@@ -20,6 +24,9 @@ $(document).on("ready", function(){
       playerTwo.stop().animate({
                 'left': '+=5px'
       } ,0 );
+      if(playerTwo.css('left') === '830px'){
+        alert("player two wins!!");
+      }
     }
   });
 
