@@ -1,0 +1,105 @@
+
+body {
+
+  background-image:url("http://images.nymag.com/images/2/daily/2014/12/01-broad-city-girls_1200.jpg");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+
+
+}
+
+#racetitle{
+
+  font-family:inherit;
+  font-size:70px;
+  color:#660099;
+  background-color:coral;
+
+
+}
+
+#prize-1 {
+  height:70px; width:60px;
+  position: absolute;
+  top: 25px;
+  left: 870px;
+  z-index:0;
+
+}
+
+#prize-2 {
+  height:40px; width:60px;
+  position: absolute;
+  top:45px;
+  left: 870px;
+  z-index: 0;
+}
+
+
+.abbi_ilana{
+  height:80px; width:60px;
+  margin-top:10px;
+
+}
+
+#p-1 {
+  position: relative;
+  width:100px; height:100px;
+  background-color:white;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:10px;
+  font-size:40px;
+  color:white;
+  text-align: center;
+  z-index:5;
+
+}
+
+
+#p-2 {
+
+  position:relative;
+  width:100px; height:100px;
+  background-color:white;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:10px;
+  font-size:40px;
+  color:white;
+  text-align: center;
+  z-index:5;
+
+}
+
+
+#t-1 {
+
+
+  background-color:white;
+  position:fixed;
+  width:950px; height:120px;
+  margin-top:50px;
+  margin-left:90px;
+
+
+}
+
+#t-2 {
+
+
+  background-color:white;
+  position:fixed;
+  width:950px; height:120px;
+  margin-top:250px;
+  margin-left:90px;
+
+}
+
+
+.btn {
+  margin-top: 400px;
+  position:fixed;
+
+}
