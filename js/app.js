@@ -8,6 +8,7 @@ $(document).on("ready", function(){
 
 
 
+
   $(window).on("keypress" , function eventHandler(e){
     if (e.which === pOneKey){
       playerOne.stop().animate({
@@ -22,14 +23,25 @@ $(document).on("ready", function(){
   $(window).on("keypress" , function eventHandler(e){
     if (e.which === pTwoKey){
       playerTwo.stop().animate({
-                'left': '+=5px'
-      } ,0 );
+        'left': '+=5px'
+        } ,0 );
       if(playerTwo.css('left') === '830px'){
         alert("player two wins!!");
       }
     }
   });
 
+  if(playerTwo.css('left')&& playerOne.css('left')==='830px'){
+    alert("tie!");
+  }
 
+  $('button').on("click" , function resetTracks(e){
+    playerOne.stop().animate({
+      'left': '0px'
+      } ,0 );
+    playerTwo.stop().animate({
+      'left': '0px'
+      } ,0 );
+  });
 
-});
+}); //very end
