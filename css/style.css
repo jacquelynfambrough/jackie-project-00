@@ -1,29 +1,49 @@
 
+body {
+  background-image: url("http://images.nymag.com/images/2/daily/2014/12/01-broad-city-girls_1200.jpg");
+  background-repeat: no-repeat;
+  background-position:center center;
+
+}
+
+.abbi_ilana{
+  height:80px; width:60px;
+  margin-top:auto;
+
+
+}
+
+.prize {
+
+  position:absolute;
+  
+}
 
 #t-1 {
 
 
-  background-color:black;
+  background-color:white;
   position:fixed;
-  width:900px; height:80px;
+  width:900px; height:120px;
   margin-top:50px;
+
 
 }
 
 #t-2 {
 
 
-    background-color:black;
+    background-color:white;
     position:fixed;
-    width:900px; height:80px;
+    width:900px; height:120px;
     margin-top:150px;
 
 }
 
 #p-1 {
     position: relative;
-    width:60px; height:60px;
-    background-color:green;
+    width:100px; height:100px;
+    background-color:white;
     margin-top:10px;
     margin-bottom:10px;
     margin-left:10px;
@@ -36,8 +56,8 @@
 #p-2 {
 
     position:relative;
-    width:60px; height:60px;
-    background-color:green;
+    width:100px; height:100px;
+    background-color:white;
     margin-top:10px;
     margin-bottom:10px;
     margin-left:10px;
