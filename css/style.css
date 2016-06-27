@@ -11,10 +11,11 @@ body {
 
 #racetitle{
 
-  font-family:inherit;
+  font-family:Courier;
   font-size:70px;
-  color:#660099;
-  background-color:coral;
+  color:white;
+  text-shadow: 2px 2px red;
+  /*background-color:coral;*/
 
 
 }
