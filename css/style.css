@@ -1,10 +1,16 @@
 
+
+html {
+  overflow: scroll;
+}
 body {
 
-  background-image:url("http://images.nymag.com/images/2/daily/2014/12/01-broad-city-girls_1200.jpg");
-  background-size:cover;
-  background-position:center;
+  background-image:url("../BCPics/background.jpeg");
+  background-size:106vw;
+  background-position-y:-30px;
+  background-position-x:-20px;
   background-repeat:no-repeat;
+  background-position:fixed;
 
 
 }
@@ -15,26 +21,29 @@ body {
   font-size:70px;
   color:white;
   text-shadow: 2px 2px red;
+  margin-bottom:100px;
   /*background-color:coral;*/
 
 
 }
 
 #prize-1 {
-  height:70px; width:60px;
+  height:95px;
+  width: 71px;
   position: absolute;
-  top: 25px;
-  left: 870px;
+  bottom:15px;
+
   z-index:0;
 
 }
 
 #prize-2 {
-  height:40px; width:60px;
-  position: absolute;
-  top:45px;
-  left: 870px;
-  z-index: 0;
+  height:95px;
+  width: 161px;
+  position:absolute;
+  bottom:15px;
+
+  z-index:0;
 }
 
 
@@ -79,10 +88,11 @@ body {
 
 
   background-color:white;
-  position:fixed;
-  width:950px; height:120px;
+  align: center;
+  width:76vw; height:120px;
   margin-top:50px;
-  margin-left:90px;
+  margin-left:12vw;
+
 
 
 }
@@ -91,16 +101,19 @@ body {
 
 
   background-color:white;
-  position:fixed;
-  width:950px; height:120px;
-  margin-top:250px;
-  margin-left:90px;
+  align: center;
+  width:76vw; height:120px;
+  margin-top:50px;
+  margin-left:12vw;
+
+
 
 }
 
 
 .btn {
-  margin-top: 400px;
-  position:fixed;
+
+margin-top: 100px;
+margin-bottom: 100px;
 
 }
